@@ -37,9 +37,9 @@ const date = moment().format('DD/MM/YYYY');
   let infoMsg =  `
   *Hey🖐️* *${nomAuteurMessage}*
   
-  *BMW MD IS RUNNING WITH [${cm.length}0] COMMANDS*
+  *YESSER MD IS RUNNING WITH [${cm.length}0] COMMANDS*
 
-  *More commands will be out soon*
+  *role by yessertech*
  
   🚘🚘🚘
  `;
@@ -49,7 +49,7 @@ let menuMsg = `
 > 📅 ᴅᴀᴛᴇ: ${date} 
 
 
-> Made by : ©Ibrahim Adams 
+> Made by : ©yessertech 
 `;
 
    var lien = mybotpic();
@@ -118,24 +118,24 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-   *BMW MD IMPORTANT INFO* 
+   *YESSER MD IMPORTANT INFO* 
 ❒───────────────────❒
 *GITHUB LINK*
 > https://github.com/ibrahimaitech/BMW-MD
 
 *WHATSAPP CHANNEL*
-> https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y
+> https://whatsapp.com/channel/0029VakA1mu35fM18opH1s30
 
 *FOR MORE INFO TAP ON THE LINK BELOW*
 > https://github.com/IBRAHIM-TECH-AI/IBRAHIM-ADAMS-INFO⁠
 ╭───────────────────❒
 │❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│❒⁠⁠⁠⁠ *DEV* : *Ibrahim Adams*
+│❒⁠⁠⁠⁠ *DEV* : *yessertech*
 ⁠⁠⁠⁠╰───────────────────❒
   `;
     
 let menuMsg = `
-     𝑰𝑩𝑹𝑨𝑯𝑰𝑴 𝑨𝑫𝑨𝑴𝑺 𝑺𝑪𝑰𝑬𝑵𝑪𝑬
+     🤠Badhacker yessertech🤠
 
 ❒────────────────────❒`;
 
